@@ -1,6 +1,6 @@
 # 🌦️ Currency Converter App
 
-Welcome to the **Currency Converter App** — a sleek, animated web application that lets you convert between global **currencies and cryptocurrencies** with a cloud-themed interface! ☁️🌞🌧️
+Welcome to the **Currency Converter App** — a sleek, animated web application that lets you convert between global **currencies and cryptocurrencies**.
 
 > Built with **Node.js**, **Express**, **EJS**, and **Vanilla CSS** (no Bootstrap/Tailwind).
 
@@ -11,7 +11,7 @@ Welcome to the **Currency Converter App** — a sleek, animated web application 
 - 🔁 Convert between **100+ major currencies and top cryptocurrencies**.
 - 💱 Supports INR, USD, EUR, GBP, BTC, ETH, DOGE, and more.
 - ⚡️ Live exchange rates powered by a currency API.
-- 🎨 Beautiful UI inspired by **weather themes** — clouds, sun, and rain.
+- 🎨 Beautiful UI.
 - 🌈 Smooth animations and modern feel.
 - 📱 Fully responsive on desktop, tablet, and mobile.
 
