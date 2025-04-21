@@ -1,4 +1,4 @@
-# 🌦️ Currency Converter App
+# Currency Converter App
 
 Welcome to the **Currency Converter App** — a sleek, animated web application that lets you convert between global **currencies and cryptocurrencies**.
 
